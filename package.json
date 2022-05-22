@@ -1,0 +1,24 @@
+{
+  "name": "practicenode",
+  "version": "1.0.0",
+  "description": "practice with Node\t",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HizbullahBhatti/node-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HizbullahBhatti/node-practice/issues"
+  },
+  "homepage": "https://github.com/HizbullahBhatti/node-practice#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
